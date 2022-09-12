@@ -16,8 +16,11 @@ I learn Front-End Development in RSSchool!
 
 ## Code Example
 ```
-function multiply(a, b){
-  a * b
+function calculate(...arguments) {
+  const sum1 = arguments.reduce((acc, value) => acc + value, 0);
+  return (...arguments) => {
+    return sum1 + arguments.reduce((acc, value) => acc + value, 0);
+  };
 }
 ```
 
