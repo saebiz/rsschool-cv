@@ -24,3 +24,7 @@ function calculate(...arguments) {
   };
 }
 ```
+## Courses
+* [Html Academy](https://www.htmlacademy.ru/)
+* [Stepik](https://www.stepik.org/)
+* [Learn JS](https://learn.javascript.ru/)
