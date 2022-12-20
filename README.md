@@ -1,1 +1,1 @@
-https://stne314.github.io/rsschool-cv/
+https://saebiz.github.io/rsschool-cv/
